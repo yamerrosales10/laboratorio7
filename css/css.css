@@ -1,0 +1,44 @@
+.usuario {
+    margin-bottom: 20px;
+}
+
+.user-photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.inputLogin {
+    width: 300px; /* Ancho deseado del formulario */
+    margin: 50px auto; /* Centrar horizontalmente */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.input {
+    margin-bottom: 10px;
+}
+
+.input label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input input {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.btn {
+    padding: 10px 15px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
